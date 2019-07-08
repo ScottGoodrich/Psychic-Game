@@ -1,0 +1,31 @@
+body {
+    background-image: url("../images/fortune-teller.jpg");
+    background-image: no-repeat;
+}
+#game {
+    width: 40%;
+    border: 10px double white;
+    margin-top: 80px;
+    margin-left: 70px;
+    color: white;
+}
+h1 {
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    line-height: 1.8;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 22px;
+    color: yellow;
+    padding: 10px; 
+}
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 22px;
+    color: yellow;
+    padding: 10px;
+}
