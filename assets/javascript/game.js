@@ -23,7 +23,7 @@ function resetGame() {
     remGuesses = 10;
     allUserGuesses = [];
     computerguess =
-    options[Math.floor(Math.random() * options.length)];
+        options[Math.floor(Math.random() * options.length)];
         console.log(computerguess);
  }        
 // Game script:

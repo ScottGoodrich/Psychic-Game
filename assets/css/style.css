@@ -10,22 +10,22 @@ body {
     color: white;
 }
 h1 {
-    font-size: 40px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35px;
+    font-family: 'IM Fell English SC', serif;
     line-height: 1.8;
     color: white;
     padding-left: 10px;
     padding-right: 10px;
 }
 h2 {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'IM Fell English SC', serif;
     font-size: 22px;
     color: yellow;
     padding: 10px;
     padding-bottom: 20px; 
 }
 p {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'IM Fell English SC', serif;
     font-size: 22px;
     color: yellow;
     padding: 10px;
