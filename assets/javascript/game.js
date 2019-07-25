@@ -39,7 +39,6 @@ document.onkeyup = function () {
         }
         else {
             remGuesses--;
-            alert("Try again!");
         }
         if (remGuesses < 1) {
             losses++;
